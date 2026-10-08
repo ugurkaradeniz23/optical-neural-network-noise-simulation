@@ -75,16 +75,20 @@ Accuracy comparison between the clean model and the model under simulated hardwa
 
 **Version 1**
 
-![Accuracy comparison - version 1](onn_project/accuracy_comparison.png)
+<img width="650" height="340" alt="accuracy_comparison" src="https://github.com/user-attachments/assets/ac7950f9-7131-4af7-b1b7-3011a2e3dcb0" />
+
 
 **Version 2 (CNN)**
 
-![Accuracy comparison - version 2](onn_project_cnn/accuracy_comparison.png)
+<img width="650" height="340" alt="accuracy_comparison" src="https://github.com/user-attachments/assets/658dfee1-5705-4435-b345-aab92e81298d" />
+
+
+
 
 | Model | Clean accuracy | Noisy accuracy |
 |-------|----------------|----------------|
-| Version 1 | [fill in]% | [fill in]% |
-| Version 2 (CNN) | [fill in]% | [fill in]% |
+| Version 1 | 98.7% | 97.07% |
+| Version 2 (CNN) | 99.23% | 96.28% |
 
 ## Tech Stack
 
